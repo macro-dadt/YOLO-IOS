@@ -1,0 +1,20 @@
+PODS:
+  - OpenCV (3.3.1.1)
+  - TensorFlow-experimental (1.1.1)
+
+DEPENDENCIES:
+  - OpenCV (~> 3.3.1)
+  - TensorFlow-experimental (~> 1.1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OpenCV
+    - TensorFlow-experimental
+
+SPEC CHECKSUMS:
+  OpenCV: c229886715ba0a2c193a950d74b18887728267f4
+  TensorFlow-experimental: c38ed2a43acaa2d42ce4174ac076efaa76e26a12
+
+PODFILE CHECKSUM: 2461a966ace799829b515855c07a481773cc4b67
+
+COCOAPODS: 1.5.3
